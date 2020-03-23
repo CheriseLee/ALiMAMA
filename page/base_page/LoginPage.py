@@ -2,8 +2,24 @@ from selenium.webdriver.common.by import By
 
 
 class LoginPage():
-    #首页登录
-    url = 'https://pub.alimama.com/'
+
+    '''页面基础类'''
+    def __init__(self, driver):
+        self.base_url = 'https://pub.alimama.com/'
+        self.driver = driver
+        self.timeout = 10 #设置超时等待
+
+    def _open(self, url):
+        url_ = self.base_url + url
+        print("Test page is %s" %url_)
+        self.driver.maximize_window()
+        self.driver.get(url_)
+
+    def open(self):
+        self._open(self.url)
+
+    def find_element(self, *loc):
+        return self.driver.find_element(*loc)
 
     #封装定位器
     username_loc = (By.ID, 'fm-login-id')
@@ -25,7 +41,7 @@ class LoginPage():
         self.find_element(*self.submit_loc).click()
 
     def login_action(self, username, password):
-        self.open()
+        # self.open()
         self.type_username(username)
         self.type_password(password)
         self.type_submit()
