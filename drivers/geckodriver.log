@@ -1,0 +1,117 @@
+1584942053775	geckodriver	INFO	geckodriver 0.19.1
+1584942053785	geckodriver	INFO	Listening on 127.0.0.1:59160
+1584942056947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.Gw32u8trf0Ms"
+1584944552927	geckodriver	INFO	geckodriver 0.19.1
+1584944552938	geckodriver	INFO	Listening on 127.0.0.1:62066
+1584944556084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.IKy8JL5Fa2Ms"
+1584944706341	geckodriver	INFO	geckodriver 0.19.1
+1584944706350	geckodriver	INFO	Listening on 127.0.0.1:62330
+1584944709465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.V1SH0Cr1O0QD"
+1584947206616	geckodriver	INFO	geckodriver 0.19.1
+1584947206626	geckodriver	INFO	Listening on 127.0.0.1:49283
+1584947209962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.oR2sFcmKxGXg"
+1584947210730	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584947211178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584947211178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584947211179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584947211179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584947211231	Marionette	TRACE	Received observer notification profile-after-change
+1584947211414	Marionette	TRACE	Received observer notification toplevel-window-ready
+1584947211452	Marionette	TRACE	Received observer notification command-line-startup
+1584947211452	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1584947211547	Marionette	TRACE	Received observer notification toplevel-window-ready
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584947214179	Marionette	TRACE	Received observer notification marionette-startup-requested
+1584947214179	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1584947214253	Marionette	TRACE	All scripts recorded.
+1584947214254	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1584947214254	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1584947214254	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1584947214254	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1584947214255	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1584947214255	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1584947214255	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1584947214255	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1584947214256	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1584947214256	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1584947214328	Marionette	INFO	Listening on port 49298
+1584947214328	Marionette	DEBUG	Marionette is listening
+1584947215329	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49340
+1584947215346	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1584947215346	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1584947215382	Marionette	DEBUG	Closed connection 0
+JavaScript error: https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/build/common-min.5594359fa3da.js, line 10: Error: Error retrieving geoip data
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1584949527618	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1584949527618	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1584949527619	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1584949527619	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1584949527619	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1584949527619	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1584949527619	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1584949527619	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1584949527620	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1584949527620	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1584949527620	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1584949527621	Marionette	INFO	Stopped listening on port 49298
+1584949527621	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585010030422	geckodriver	INFO	geckodriver 0.19.1
+1585010030478	geckodriver	INFO	Listening on 127.0.0.1:60494
+1585010033540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.0qjojyCDp3xz"
+1585010034067	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585010034511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585010034511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585010034511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585010034511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585010034559	Marionette	TRACE	Received observer notification profile-after-change
+1585010034677	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585010034711	Marionette	TRACE	Received observer notification command-line-startup
+1585010034711	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585010034801	Marionette	TRACE	Received observer notification toplevel-window-ready
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585010037098	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585010037099	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585010037121	Marionette	TRACE	All scripts recorded.
+1585010037121	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585010037121	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585010037121	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585010037121	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585010037122	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585010037122	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585010037122	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585010037123	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585010037123	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585010037123	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585010037178	Marionette	INFO	Listening on port 60507
+1585010037179	Marionette	DEBUG	Marionette is listening
+1585010037231	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60534
+1585010037233	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585010037234	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585010037272	Marionette	DEBUG	Closed connection 0
+1585010048682	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585010048683	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585010048683	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585010048683	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585010048683	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585010048683	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585010048683	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585010048683	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585010048683	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585010048683	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585010048684	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585010048684	Marionette	INFO	Stopped listening on port 60507
+1585010048684	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
