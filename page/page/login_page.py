@@ -27,7 +27,8 @@ class LoginPage():
         return self.driver.find_element(*loc)
 
     #用户名输入框元素
-    def type_username(self, username):
+    def type_username(self, driver,username):
+        self
         self.find_element(*self.username_loc).clear()
         self.find_element(*self.username_loc).send_keys(username)
 
@@ -40,14 +41,14 @@ class LoginPage():
     def type_submit(self):
         self.find_element(*self.submit_loc).click()
 
-    def login_action(self, username, password):
+    def login_action(self,driver, username, password):
         # self.open()
         # # 切换到登录的frame，解决找不到元素的问题
         # self.driver.switchTo("taobaoLoginIfr")
         # self.driver.switchTo("taobaoLoginIfr")
-        self.type_username(username)
-        self.type_password(password)
-        self.type_submit()
+        self.type_username(driver,username)
+        self.type_password(driver,password)
+        self.type_submit(driver)
 
     # loginPass_loc = (By.LINK_TEXT, '我的空间')
     # loginFail_loc = (By.NAME, 'username')

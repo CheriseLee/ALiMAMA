@@ -515,3 +515,154 @@ JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=27, line 1:
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1585530028216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofilec1RAU1"
+1585530029458	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585530030104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585530030105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585530030105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585530030105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585530034368	Marionette	INFO	Listening on port 50584
+1585530034600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.8/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.2.6/et_n.js, line 2: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+1585530339471	Marionette	INFO	Stopped listening on port 50584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sion.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585530235047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585530235047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585530235048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585530235048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585530238590	Marionette	INFO	Listening on port 50766
+1585530239123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.2.6/et_n.js, line 2: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+1585530258342	Marionette	INFO	Stopped listening on port 50766
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585530349092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofileO2etaZ"
+1585530349721	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585530350895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585530350895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585530350895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585530350895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585530354399	Marionette	INFO	Listening on port 50907
+1585530355037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.2.6/et_n.js, line 2: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=30, line 1: Error: WebGL context was lost.
+1585530414910	Marionette	INFO	Stopped listening on port 50907
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585531775490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofileis7q7x"
+1585531775990	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585531776439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585531776439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585531776439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585531776440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585531779455	Marionette	INFO	Listening on port 51582
+1585531779874	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585531793458	Marionette	INFO	Stopped listening on port 51582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585532043732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofileImBYbk"
+1585532044207	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585532044642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585532044642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585532044642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585532044642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585532047442	Marionette	INFO	Listening on port 51760
+1585532047630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585532053522	Marionette	INFO	Stopped listening on port 51760
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585614444160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile2fB1Ef"
+1585614444702	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585614445153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585614445154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585614445154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585614445154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585614447976	Marionette	INFO	Listening on port 65183
+1585614448069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=31, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.2.6/et_n.js, line 2: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=31, line 1: Error: WebGL context was lost.
+1585788234728	Marionette	INFO	Stopped listening on port 65183
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofileiRppEy"
+1585616667765	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585616668191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585616668192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585616668192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585616668192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585616671242	Marionette	INFO	Listening on port 52089
+1585616671661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585616791433	Marionette	INFO	Stopped listening on port 52089
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585616796964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GONGLI~1\\AppData\\Local\\Temp\\rust_mozprofile5Och7K"
+1585616797446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585616798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585616798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585616798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585616798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585616801071	Marionette	INFO	Listening on port 52283
+1585616801351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.8.7/index.js, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.72/ns_d_83_3_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.2.7/et_n.js, line 3: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=31, line 1: Error: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.80.0/um.js?d=31, line 1: Error: WebGL context was lost.
+[Child 19352, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585616852950	Marionette	INFO	Stopped listening on port 52283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

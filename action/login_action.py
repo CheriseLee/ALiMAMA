@@ -21,8 +21,11 @@ class LoginAction():
         datas = yaml.load(f) #从本地文件获取用户名密码
         po.open()
         # # 切换到登录的frame，解决找不到元素的问题
-        self.driver.switchTo("taobaoLoginIfr")
-        po.login_action(datas['username'], datas['password'])
+        window = self.driver.current_window_handle
+        print(self.driver.title)
+        self.driver.switch_to_frame("taobaoLoginIfr")
+        # self.driver.switchTo("taobaoLoginIfr")
+        po.login_action(self.driver,datas['username'], datas['password'])
         sleep(3)
         f.close()
         # assert (self.driver.find_element_by_class_name("m-xs").is_displayed() == True)
